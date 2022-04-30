@@ -1,4 +1,6 @@
-HomeWork2-HotelCalculations\n
-It's a hotel reservation program on C# 7.3 .NET Framework Console.\n
+HomeWork2-HotelCalculations
 
-C# 7.3 .NET Framework Konsolu üzerinde bir otel rezervasyon programıdır.
+
+It's a hotel reservation program on C# 7.3 .NET Framework Console.
+
+Türkçe: C# 7.3 .NET Framework Konsolu üzerinde bir otel rezervasyon programıdır.
